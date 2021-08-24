@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Bruno Bortolato
 
-<!--
-**Bortolato/Bortolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Atualmente na EJEC (Empresa Júnior de Eng de Computação)
+- 💻 Graduando em Engenharia de Computação
+- 📕 Estudando + desenvolvimento web
+- 📫 E-mail para contato: bbortolato31@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/Bortolato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bortolato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bortolato&layout=compact&langs_count=7&theme=dark"/>
+</div>
